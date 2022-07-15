@@ -1,0 +1,7 @@
+for installation in setup
+1) npm install -g @angular/cli (this command for angular installation)
+2) ng version (this command for checking angular version)
+3) ng new blog (blog is the project name)
+4) cd blog
+5) ng serve (this command is for running angular project in browser)
+6) localhost:4200 (this port used for run angular project in browser)
